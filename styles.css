@@ -1,0 +1,29 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+.header {
+  margin-top: 50px;
+  line-height: 10px;
+  text-align: center;
+}
+.gambarheader {
+  width: 300px;
+}
+.gambarkonten {
+  width: 300px;
+}
+.judulheader {
+  color: red;
+  text-transform: uppercase;
+  font-weight: 1200;
+}
+h1 {
+  color: rgb(9, 9, 9);
+  text-transform: uppercase;
+  font-weight: 1200;
+}
+h4 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
